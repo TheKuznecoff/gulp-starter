@@ -1,0 +1,1 @@
+import "%components%/chat-input/chat-input";
