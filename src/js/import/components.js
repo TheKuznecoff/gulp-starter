@@ -1,1 +1,1 @@
-import "%components%/chat-input/chat-input";
+// import "%components%/component/component";
